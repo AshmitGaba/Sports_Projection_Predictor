@@ -1,4 +1,4 @@
-## Sports_Projection_Predictor
+# **Sports_Projection_Predictor**
 
 # Overview
 This application serves as a digital assistant for sports betting enthusiasts, specifically for NBA games as of right now. By leveraging data from 1950 up to the present day, our proprietary algorithm predicts a player's future performance across multiple statistics. Whether you're interested in points, rebounds, assists, steals, blocks, turnovers, or other statistics, our app has you covered.
